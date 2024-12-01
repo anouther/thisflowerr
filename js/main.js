@@ -21,7 +21,7 @@
           } else {
             // Setelah teks utama selesai, tambahkan subtitle kecil
             const subtitle = document.createElement('p');
-            subtitle.innerText = " the rains have their oceans, and the sun has its moons. Everything need a reason for falling, and i'm have you";
+            subtitle.innerText = " ini bunga dari aku buat mamas, i love you mamas sayangg🫶🏻";
             subtitle.style.fontSize = '20px'; // Ukuran font lebih kecil
             subtitle.style.marginTop = '2px'; // Spasi antara teks utama dan subtitle
             subtitle.style.color = '#fff'; // Warna abu-abu untuk teks subtitle
